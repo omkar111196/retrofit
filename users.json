@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main St, Anytown, USA",
+    "gender": "Male",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "address": "456 Elm St, Othertown, USA",
+    "gender": "Female",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "address": "789 Maple Ave, Somewhere, USA",
+    "gender": "Male",
+    "phone": "555-8765"
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "address": "101 Pine St, Anywhere, USA",
+    "gender": "Female",
+    "phone": "555-4321"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "address": "202 Oak St, Everywhere, USA",
+    "gender": "Male",
+    "phone": "555-9876"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@example.com",
+    "address": "303 Birch St, Nowhere, USA",
+    "gender": "Female",
+    "phone": "555-6789"
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "email": "james.anderson@example.com",
+    "address": "404 Cedar St, Hometown, USA",
+    "gender": "Male",
+    "phone": "555-5432"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Garcia",
+    "email": "olivia.garcia@example.com",
+    "address": "505 Spruce St, Ville, USA",
+    "gender": "Female",
+    "phone": "555-1235"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Lee",
+    "email": "daniel.lee@example.com",
+    "address": "606 Ash St, City, USA",
+    "gender": "Male",
+    "phone": "555-3456"
+  },
+  {
+    "id": 10,
+    "name": "Emma Harris",
+    "email": "emma.harris@example.com",
+    "address": "707 Redwood St, Town, USA",
+    "gender": "Female",
+    "phone": "555-6543"
+  }
+]
