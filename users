@@ -3,80 +3,90 @@
     "id": 1,
     "name": "John Doe",
     "email": "john.doe@example.com",
-    "address": "123 Main St, Anytown, USA",
+    "address": "123 Main St, Springfield",
     "gender": "Male",
-    "phone": "555-1234"
+    "phone": "123-456-7890",
+    "imageUrl": "https://example.com/images/john_doe.jpg"
   },
   {
     "id": 2,
     "name": "Jane Smith",
     "email": "jane.smith@example.com",
-    "address": "456 Elm St, Othertown, USA",
+    "address": "456 Elm St, Metropolis",
     "gender": "Female",
-    "phone": "555-5678"
+    "phone": "987-654-3210",
+    "imageUrl": "https://example.com/images/jane_smith.jpg"
   },
   {
     "id": 3,
-    "name": "Michael Brown",
-    "email": "michael.brown@example.com",
-    "address": "789 Maple Ave, Somewhere, USA",
-    "gender": "Male",
-    "phone": "555-8765"
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "address": "789 Oak St, Gotham",
+    "gender": "Female",
+    "phone": "555-123-4567",
+    "imageUrl": "https://example.com/images/alice_johnson.jpg"
   },
   {
     "id": 4,
-    "name": "Emily Johnson",
-    "email": "emily.johnson@example.com",
-    "address": "101 Pine St, Anywhere, USA",
-    "gender": "Female",
-    "phone": "555-4321"
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "address": "101 Pine St, Star City",
+    "gender": "Male",
+    "phone": "555-987-6543",
+    "imageUrl": "https://example.com/images/bob_brown.jpg"
   },
   {
     "id": 5,
-    "name": "David Wilson",
-    "email": "david.wilson@example.com",
-    "address": "202 Oak St, Everywhere, USA",
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "address": "202 Birch St, Central City",
     "gender": "Male",
-    "phone": "555-9876"
+    "phone": "555-654-3219",
+    "imageUrl": "https://example.com/images/charlie_davis.jpg"
   },
   {
     "id": 6,
-    "name": "Sophia Martinez",
-    "email": "sophia.martinez@example.com",
-    "address": "303 Birch St, Nowhere, USA",
+    "name": "Diana Evans",
+    "email": "diana.evans@example.com",
+    "address": "303 Cedar St, Coast City",
     "gender": "Female",
-    "phone": "555-6789"
+    "phone": "555-321-9876",
+    "imageUrl": "https://example.com/images/diana_evans.jpg"
   },
   {
     "id": 7,
-    "name": "James Anderson",
-    "email": "james.anderson@example.com",
-    "address": "404 Cedar St, Hometown, USA",
+    "name": "Edward Foster",
+    "email": "edward.foster@example.com",
+    "address": "404 Maple St, Keystone City",
     "gender": "Male",
-    "phone": "555-5432"
+    "phone": "555-432-1987",
+    "imageUrl": "https://example.com/images/edward_foster.jpg"
   },
   {
     "id": 8,
-    "name": "Olivia Garcia",
-    "email": "olivia.garcia@example.com",
-    "address": "505 Spruce St, Ville, USA",
+    "name": "Fiona Green",
+    "email": "fiona.green@example.com",
+    "address": "505 Walnut St, Bludhaven",
     "gender": "Female",
-    "phone": "555-1235"
+    "phone": "555-543-2876",
+    "imageUrl": "https://example.com/images/fiona_green.jpg"
   },
   {
     "id": 9,
-    "name": "Daniel Lee",
-    "email": "daniel.lee@example.com",
-    "address": "606 Ash St, City, USA",
+    "name": "George Hill",
+    "email": "george.hill@example.com",
+    "address": "606 Chestnut St, Fawcett City",
     "gender": "Male",
-    "phone": "555-3456"
+    "phone": "555-654-3782",
+    "imageUrl": "https://example.com/images/george_hill.jpg"
   },
   {
     "id": 10,
-    "name": "Emma Harris",
-    "email": "emma.harris@example.com",
-    "address": "707 Redwood St, Town, USA",
+    "name": "Hannah King",
+    "email": "hannah.king@example.com",
+    "address": "707 Redwood St, Hub City",
     "gender": "Female",
-    "phone": "555-6543"
+    "phone": "555-765-4321",
+    "imageUrl": "https://example.com/images/hannah_king.jpg"
   }
 ]
