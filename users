@@ -6,7 +6,7 @@
     "address": "123 Main St, Springfield",
     "gender": "Male",
     "phone": "123-456-7890",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic1.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "address": "456 Elm St, Metropolis",
     "gender": "Female",
     "phone": "987-654-3210",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic2.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic2.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "address": "789 Oak St, Gotham",
     "gender": "Female",
     "phone": "555-123-4567",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic3.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic3.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "address": "101 Pine St, Star City",
     "gender": "Male",
     "phone": "555-987-6543",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic4.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic4.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "address": "202 Birch St, Central City",
     "gender": "Male",
     "phone": "555-654-3219",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic5.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic5.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "address": "303 Cedar St, Coast City",
     "gender": "Female",
     "phone": "555-321-9876",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic6.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic6.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "address": "404 Maple St, Keystone City",
     "gender": "Male",
     "phone": "555-432-1987",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic7.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic7.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "address": "505 Walnut St, Bludhaven",
     "gender": "Female",
     "phone": "555-543-2876",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic8.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic8.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "address": "606 Chestnut St, Fawcett City",
     "gender": "Male",
     "phone": "555-654-3782",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic9.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic9.jpg"
   },
   {
     "id": 10,
@@ -87,6 +87,6 @@
     "address": "707 Redwood St, Hub City",
     "gender": "Female",
     "phone": "555-765-4321",
-    "imageUrl": "https://github.com/omkar111196/retrofit-and-filter-data/blob/main/pic10.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/omkar111196/retrofit-and-filter-data/main/pic10.jpg"
   }
 ]
